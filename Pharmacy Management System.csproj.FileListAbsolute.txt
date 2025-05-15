@@ -1,0 +1,150 @@
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\PharmacyDB.mdf
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\PharmacyDB_log.ldf
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\Report1.rdlc
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\EnvDTE.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\stdole.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Admin.resources
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Customers.resources
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Dashboard.resources
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Login.resources
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Manufacturer.resources
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Medicines.resources
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.ReportForm.resources
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Sellers.resources
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Selling.resources
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CopyComplete
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+C:\Users\Abdik\Desktop\C# Form Application\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\PharmacyDB.mdf
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\PharmacyDB_log.ldf
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Report1.rdlc
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\EnvDTE.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\stdole.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Admin.resources
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Customers.resources
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Dashboard.resources
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Login.resources
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Manufacturer.resources
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Medicines.resources
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.ReportForm.resources
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Sellers.resources
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Selling.resources
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CopyComplete
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+C:\Users\Abdik\Desktop\C# Form Application\FinalProjects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
